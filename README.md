@@ -1,6 +1,6 @@
 # Scientific Computing Lab Assignments
-
-Welcome to the **Scientific Computing Lab Assignments** repository! 🎓 This repository contains a collection of assignments and their corresponding solution code for MA322 scientific computing lab course . Each assignment focuses on fundamental concepts and techniques used in computational science, numerical methods, and data analysis.
+This repository contains a collection of assignments and their corresponding solution code I have had for MA322 scientific computing lab course from Jan-May 2025 semester at IIT Guwahati.
+Each assignment focuses on fundamental concepts and techniques used in computational science, numerical methods, and data analysis.
 
 ---
 
