@@ -5,7 +5,7 @@ Each assignment focuses on fundamental concepts and techniques used in computati
 ---
 
 
-## 🧪 About the Repository
+##  About the Repository
 
 This repository includes:
 - **Assignment Descriptions**: Detailed problem statements and requirements.
@@ -16,12 +16,10 @@ This repository includes:
 ## 📝 Assignments Overview
 
 The assignments cover a range of topics in scientific computing, including but not limited to:
-Errors; Iterative methods for nonlinear equations; Polynomial interpolation, spline interpolations; Numerical integration based on interpolation, 
-quadrature methods, Gaussian quadrature; Initial value problems for ordinary differential equations - Euler method, Runge-Kutta methods, multi-step methods, predictor-corrector method, 
-stability and convergence analysis; Finite difference schemes for partial differential equations - Explicit and implicit schemes; Consistency, stability and convergence; 
-Stability analysis (matrix method and von Neumann method), Lax equivalence theorem; Finite difference schemes for initial and boundary value problems (FTCS, 
-Backward Euler and Crank-Nicolson schemes, ADI methods, Lax Wendroff method, upwind scheme).
-
+Lab-1:Errors.
+Lab-2:Finding roots using iterative methods like Bisection method,Secant method,Regula Falsi method.
+LAb-3:solving non-linear equations using Newton's method, Fixed-point iteration,Mullers method.
+Lab-4:Approximating using Newton's divided difference interpolation,Lagrange interpolation,Hermite interpolation. 
 
 ---
 
